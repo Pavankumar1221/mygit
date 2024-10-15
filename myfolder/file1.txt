@@ -1,1 +1,2 @@
 This is my folder
+This is additional line from new branch
